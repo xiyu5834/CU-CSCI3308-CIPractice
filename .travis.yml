@@ -1,4 +1,4 @@
-language:c
-install:make dep
-script:make test
-sudo:enabled
+language: c
+install: make dep
+script: make test
+sudo: enabled
