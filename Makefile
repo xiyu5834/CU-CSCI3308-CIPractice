@@ -29,5 +29,5 @@ clean:
 	$(RM) *.o
 	$(RM) geometry_test
 	$(RM) *~
-test:
+test:geometry_test
 	./geometry_test
